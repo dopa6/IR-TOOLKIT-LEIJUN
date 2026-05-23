@@ -1,6 +1,6 @@
 # 📦 UNIVERSAL-IR-TOOLKIT | ESP32-C3 Infrared Multi-Tool (LEIJUN OS v17.0)
 
-This is a complete hardware and software blueprint to build a pocket-sized infrared (IR) master device. Powered by the ESP32-C3 RISC-V chip, it works as a raw signal copier, database player, wave generator, and multi-device emulator wrapped inside a clean cyberpunk user interface.
+This is a complete hardware and software blueprint to build a pocket-sized infrared (IR) master device. Powered by the ESP32-C3 RISC-V chip, it works as a raw signal copier, database player, wave generator, and multi-device emulator wrapped inside a clean user interface.
 
 ---
 
