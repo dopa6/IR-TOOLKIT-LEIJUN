@@ -390,7 +390,7 @@ Both files are loaded automatically on boot. Codes survive power cycles, firmwar
 
 ## 🎨 UI & Visual Design
 
-LEIJUN OS uses a custom **cyberpunk dark palette** rendered on the ST7735 TFT:
+LEIJUN OS uses a custom **dark palette** rendered on the ST7735 TFT:
 
 | Color Name | Hex (RGB565) | Used For |
 |---|---|---|
